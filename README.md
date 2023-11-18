@@ -22,3 +22,7 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
+
+## Attribution
+
+Earth textures are from the great website [solarsystemscope.com](https://www.solarsystemscope.com/textures/).
